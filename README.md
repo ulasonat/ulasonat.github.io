@@ -1,14 +1,14 @@
-### :wave: Hi there, I'm Ulas!
+### Hi there, I'm Ulas!
 
 
-:school: Master's student in Computer Science at Columbia University
+- Master's student in Computer Science at Columbia University
 
-:mortar_board: Received a BS in Computer Science at Eotvos Lorand University
+- Received a BS in Computer Science at Eotvos Lorand University
 
-:email: ulas.alakent@columbia.edu
+- Contact me at: ulas.alakent@columbia.edu
 
 
-#### :computer: Technical Skills
+Technical Skills
 **Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
 
 **Frontend:** HTML5, CSS3, Javascript, Tkinter
