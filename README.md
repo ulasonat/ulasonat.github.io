@@ -5,7 +5,7 @@
 
 - Received a BS in Computer Science at Eotvos Lorand University
 
-- Contact me at: ulas.alakent@columbia.edu
+- Contact me at: <ulas.alakent@columbia.edu>
 
 
 Technical Skills
