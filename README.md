@@ -1,7 +1,7 @@
 ### Hi there, I'm Ulas!
 
 
-- Master's student in Computer Science at Columbia University
+- Master's student in Computer Science at Columbia University (expected graduate date: Dec 2023)
 
 - Received a BS in Computer Science at Eotvos Lorand University
 
