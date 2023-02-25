@@ -8,7 +8,8 @@
 - Contact me at: <ulas.alakent@columbia.edu>
 
 
-Technical Skills
+**Technical Skills**
+
 **Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
 
 **Frontend:** HTML5, CSS3, Javascript, Tkinter
@@ -18,3 +19,7 @@ Technical Skills
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ulasonat" />
+
+**Projects**
+
+TO BE ADDED!
