@@ -7,7 +7,6 @@
 
 - Contact me at: <ulas.alakent@columbia.edu>
 
-
 **Technical Skills**
 
 **Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
