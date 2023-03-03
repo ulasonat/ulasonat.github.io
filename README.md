@@ -7,6 +7,8 @@
 
 - Contact me at: <ulas.alakent@columbia.edu>
 
+- (347)-515-5280
+
 **Technical Skills**
 
 **Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
