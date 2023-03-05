@@ -20,11 +20,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ulasonat" />
-
-**Work Experience**
-
-TO BE ADDED!
-
-**Projects**
-
-TO BE ADDED!
