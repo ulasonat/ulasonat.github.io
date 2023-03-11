@@ -1,21 +1,31 @@
-### Hi there, I'm Ulas!
+## Hello, I'm Ulas!
 
-- Master's student in Computer Science @ Columbia University (expected graduate date: Dec 2023)
+[![](https://img.shields.io/badge/Website-red)](https://ulasonat.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ulasalakent/)
 
-- Received a BS in Computer Science at Eotvos Lorand University
+### Education
 
-- Contact me at: <ulas.alakent@columbia.edu>
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | M.S. in Computer Science | 2022-2023 |
+| <img width="75" src="./ELTE_logo.png" alt="Cubist"></img> | [Eötvös Loránd University](https://www.elte.hu/en/) | B.S. in Computer Science | 2017-2021 |
 
-- (347)-515-5280
 
-**Technical Skills**
+### Activity Status
 
-**Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat&theme=tokyonight" />
 
-**Frontend:** HTML5, CSS3, Javascript, Tkinter
+<!--
+**ulasonat/ulasonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Other Technologies:** NumPy, Pandas, PostgreSQL, Git, Jira, OpenCV, Unity
+Here are some ideas to get you started:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ulasonat" />
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
