@@ -12,7 +12,7 @@
 
 ### Projects
 
-All my projects and contributions can be found on my [Github](https://github.com/ulasonat).
+All my projects and contributions can be found on my [GitHub](https://github.com/ulasonat).
 
 
 
