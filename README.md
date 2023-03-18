@@ -15,7 +15,6 @@
 All my projects and contributions can be found on my [GitHub](https://github.com/ulasonat).
 
 
-
 ### Activity Status
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat&theme=tokyonight" />
